@@ -1,9 +1,9 @@
 # User manual
-
+adb
 [[toc]]
-
+adb devices 
 ## Start Shizuku
-
+adb devices
 Shizuku supports startup in the following three ways.
 
 ::: tip If you are using GrapheneOS
